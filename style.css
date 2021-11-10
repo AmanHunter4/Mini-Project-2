@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fira+Sans:ital,wght@1,900&display=swap');
+body{
+
+    font-family: 'Anton', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: dotted;
+    text-shadow: black;
+ border: 10px solid black;
+background-image: url(https://wallpapercave.com/wp/wp7037335.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+h1{
+    color: black;
+     font-weight: 900px,bold;
+
+}
+*{
+    text-decoration: underline;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+button{
+    margin-top: 50px;
+    width: 330px;
+    background-color: #1DA1F2;
+    height: 40px;
+    border-radius: 20px;
+    font-weight: 900;
+cursor: pointer;
+    box-shadow: 6px 6px 6px #CBCED1, -6px -6px 6px white;
+    
+}
+#name{
+    color: greenyellow;
+
+}
+textarea{
+    width: 300px;
+    height: 100px;
+    background-color:  rgb(216, 247, 210);
+}
